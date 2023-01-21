@@ -8,7 +8,7 @@
 
 :root {
     --rotation: 30s;
-    --bounce: 10s;
+    --bounce: 1s;
 }
 
 html {
